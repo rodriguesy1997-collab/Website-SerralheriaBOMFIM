@@ -97,4 +97,5 @@ e CNPJ (`32.183.952/0001-84`) — todos em `src/data/site.ts`.
   são Client Components (interatividade mínima necessária)
 - Cache agressivo para assets estáticos configurado em `next.config.mjs`
 - remove zip
+- 
   
